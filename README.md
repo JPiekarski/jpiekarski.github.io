@@ -1,4 +1,4 @@
 jpiekarski.github.io
 ====================
 
-A few completed projects.
+Personal site, powered by OpenShirt
